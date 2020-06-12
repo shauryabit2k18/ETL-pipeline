@@ -1,6 +1,10 @@
 # Disaster Response Pipeline Project
 
 ### Instructions:
+1. Install Dependencies
+   - pip install -r requirements.txt for python 2.x
+                     OR
+   - pip3 install -r requirements.txt for python 3.x
 1. Run the following commands in the project's root directory to set up your database and model.
 
     - To run ETL pipeline that cleans data and stores in database
